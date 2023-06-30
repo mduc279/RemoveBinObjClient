@@ -1,0 +1,15 @@
+D:\AOD Projects\RemoveBinObj\bin\Debug\net6.0\RemoveBinObj.exe
+D:\AOD Projects\RemoveBinObj\bin\Debug\net6.0\RemoveBinObj.deps.json
+D:\AOD Projects\RemoveBinObj\bin\Debug\net6.0\RemoveBinObj.runtimeconfig.json
+D:\AOD Projects\RemoveBinObj\bin\Debug\net6.0\RemoveBinObj.dll
+D:\AOD Projects\RemoveBinObj\bin\Debug\net6.0\RemoveBinObj.pdb
+D:\AOD Projects\RemoveBinObj\obj\Debug\net6.0\RemoveBinObj.csproj.AssemblyReference.cache
+D:\AOD Projects\RemoveBinObj\obj\Debug\net6.0\RemoveBinObj.GeneratedMSBuildEditorConfig.editorconfig
+D:\AOD Projects\RemoveBinObj\obj\Debug\net6.0\RemoveBinObj.AssemblyInfoInputs.cache
+D:\AOD Projects\RemoveBinObj\obj\Debug\net6.0\RemoveBinObj.AssemblyInfo.cs
+D:\AOD Projects\RemoveBinObj\obj\Debug\net6.0\RemoveBinObj.csproj.CoreCompileInputs.cache
+D:\AOD Projects\RemoveBinObj\obj\Debug\net6.0\RemoveBinObj.dll
+D:\AOD Projects\RemoveBinObj\obj\Debug\net6.0\refint\RemoveBinObj.dll
+D:\AOD Projects\RemoveBinObj\obj\Debug\net6.0\RemoveBinObj.pdb
+D:\AOD Projects\RemoveBinObj\obj\Debug\net6.0\RemoveBinObj.genruntimeconfig.cache
+D:\AOD Projects\RemoveBinObj\obj\Debug\net6.0\ref\RemoveBinObj.dll
